@@ -1,0 +1,2 @@
+you use a greedy like algorithm where the only things you know is profit, minimum price youve seen and current price. as you go through you set the minimum price youve seen and subtract that from the current price to get the profit and set that as profit
+if thats the most profit youve seen
